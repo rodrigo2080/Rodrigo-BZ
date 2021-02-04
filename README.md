@@ -11,13 +11,13 @@
   </head>
   <body>
     <div class="menu">
-      <a class="boton" href="tel:+56987307091">Llamar</a>
-      <a class="boton" href="mailto:rodrigo.bustamante@gmail.com">Correo</a>
-      <a class="boton" href="#contacto">Contacto</a>
-      <a class="boton" href="#experiencia">Experiencia</a>
-      <a class="boton" href="#especializacion">Especialización</a>
-      <a class="boton" href="#estudios">Estudios</a>
       <a class="boton" href="#home">Home</a>
+      <a class="boton" href="#estudios">Estudios</a>
+      <a class="boton" href="#especializacion">Especialización</a>
+      <a class="boton" href="#experiencia">Experiencia</a>
+      <a class="boton" href="#contacto">Contacto</a>
+      <a class="boton" href="mailto:rodrigo.bustamante@gmail.com">Correo</a>
+      <a class="boton" href="tel:+56987307091">Llamar</a>
     </div>
     <div class="caja">
       <div class="nombre" id="home">
