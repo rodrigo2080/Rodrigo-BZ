@@ -314,7 +314,7 @@
       <div class="line"></div>
       <div class="gridus1">
         <div class="contacto" id="contacto">
-          <p class="parrafo3">Mis redes sociales:</p>
+          <p class="subtitulito">Mis redes sociales:</p>
           <a
             class="juega"
             href="https://www.linkedin.com/in/rodrigo-bustamante-00065616/"
