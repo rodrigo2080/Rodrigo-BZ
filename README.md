@@ -336,7 +336,7 @@
         </div>
       </div>
       <div class="gridus1">
-        <div class="textoespe">Pagina diseña por @buzta.cl</div>
+        <div class="juega">Pagina diseña por @buzta.cl</div>
       </div>
     </div>
   </body>
