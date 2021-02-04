@@ -159,7 +159,7 @@
               MOSAICO S.A.
             </a>
           </h3>
-          <h4>
+          <h4 class="textoespe">
             Empresa dedicada al desarrollo, producción e importación de
             productos para el uso doméstico. Su principal marca es Stretto, que
             posee el 60% del mercado de griferías en Chile, además de la marca
@@ -171,7 +171,7 @@
             permitió mantener los costos y en algunos casos disminuirlos, ésto
             último gracias a la gestión con los proveedores Chinos.
           </h4>
-          <h4>
+          <h4 class="textoespe">
             Principales responsabilidades:
             <ol>
               <li>Lograr meta en costo, calidad y tiempo de los proyectos.</li>
@@ -202,14 +202,14 @@
               EMPACK S.A.
             </a>
           </h3>
-          <h4>
+          <h4 class="textoespe">
             Empresa dedicada a la representación de marcas reconocidas a nivel
             mundial en lo que a packaging se refiere. Dentro de los logros
             destaco la disminución de pérdidas por vencimiento de stock, siendo
             reconocido dentro de la empresa. <br />
             Obtuve el Premio Innovación Empack 2014.
           </h4>
-          <h4>
+          <h4 class="textoespe">
             Principales responsabilidades:
             <ol>
               <li>Definir precios de maquinas e insumos de la categoría</li>
@@ -244,7 +244,7 @@
               LABORATORIOS BEIERSDORF
             </a>
           </h3>
-          <h4>
+          <h4 class="textoespe">
             Trabajo con las marcas del laboratorio como Nivea, Eucerin, etc.
             Principal responsabilidad el control de proyectos, contacto directo
             con proveedores nacionales en el diseño y confección de los
@@ -252,7 +252,7 @@
             máquinas a los nuevos productos, tanto al interior de la compañía
             como a los proveedores externos de maquila o packaging.
           </h4>
-          <h4>
+          <h4 class="textoespe">
             Principales responsabilidades:
             <ol>
               <li>
@@ -284,7 +284,7 @@
               HOLDING COIPSA S.A.
             </a>
           </h3>
-          <h4>
+          <h4 class="textoespe">
             Grupo de empresas industriales con más de 40 años de trayectoria en
             la fabricación de papel y soluciones de embalajes a partir de la
             gestión y reciclaje de residuos. La materia prima utilizada en sus
@@ -292,7 +292,7 @@
             utilizada en estos procesos es Energía Renovable No Convencional
             (ERNC).
           </h4>
-          <h4>
+          <h4 class="textoespe">
             Principales responsabilidades:
             <ol>
               <li>
