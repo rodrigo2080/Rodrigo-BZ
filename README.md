@@ -41,8 +41,8 @@
         </h3>
       </div>
       <div class="sueñolinea"></div>
-      <div class="subtitulo" id="estudios">
-        <div>INGENIERÍA EN DISEÑO</div>
+      <div class="carrera" id="estudios">
+        <div class="subtitulo">INGENIERÍA EN DISEÑO</div>
         <h4 class="text_carrera">
           La carrera de Ingeniería en Diseño busca formar profesionales con la
           capacidad de crear, diseñar, prototipar y fabricar productos 100%
@@ -56,8 +56,8 @@
         </h4>
         <a class="idp" href="http://www.did.usm.cl/" target="_blank"></a>
       </div>
-      <div class="subtitulo" id="especializacion">
-        Especialización
+      <div class="especializacion" id="especializacion">
+        <div class="subtitulo">Especialización</div>
       </div>
       <div class="grid1">
         <div class="gridus">
@@ -148,8 +148,8 @@
           </h4>
         </div>
       </div>
-      <div class="subtitulo" id="experiencia">
-        Experiencia
+      <div class="experiencia" id="experiencia">
+        <div class="subtitulo">Experiencia</div>
       </div>
       <div class="grid2">
         <div class="gridus">
@@ -328,7 +328,7 @@
           <br />
           <a class="juega" href="mailto:rodrigo.bustamante@gmail.com">correo</a>
           <br />
-          <a class="juega" href="https://www.youtube.com" target="_blank"
+          <a class="juega" href="https://rodrigo2080.github.io/Rodrigo-BZ/" target="_blank"
             >website</a
           >
         </div>
