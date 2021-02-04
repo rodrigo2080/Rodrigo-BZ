@@ -22,6 +22,221 @@ a:active {
   color: #aaa;
 }
 
+
+.menu {
+  background: #212f3c;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+  height: 50px;
+
+  white-space: nowrap;
+  left: 0;
+  padding-left: 10px;
+  padding-right: 20px;
+  float: right;
+}
+
+.boton {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  color: #aaa;
+  padding-top: 1%;
+  padding-right: 2%;
+}
+
+.cajita {
+  width: 10px;
+  height: 100%;
+  float: right;
+}
+
+.caja {
+  background-color: #212f3c;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ccc;
+  border-radius: 2px;
+  border-top: solid 0px;
+  font-family: "Raleway", sans-serif;
+  float: left;
+  color: #aaa;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  float: left;
+  width: 100%;
+  font-weight: normal;
+}
+
+.nombre {
+  width: 100%;
+  float: left;
+  font-size: 35px;
+  font-weight: bolder;
+  text-align: center;
+  padding-top: 17px;
+  padding-bottom: 0px;
+}
+
+.resumen {
+  text-align: justify;
+  text-justify: inter-word;
+  padding: 0px 120px 10px;
+  float: left;
+}
+
+.academica {
+  border-top: 1px solid #fff;
+  float: left;
+  background-color: #fff;
+  padding-left: 20px;
+}
+
+.carrera {
+  background-color: #fff;
+  float: left;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 0px;
+  font-size: larger;
+  margin: 60px;
+  color: #2c3e50;
+}
+
+.text_carrera {
+  float: left;
+  width: 100%;
+  text-align: justify;
+  text-justify: inter-word;
+  color: #2c3e50;
+}
+
+.foto1 {
+  padding: 5px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.idp {
+  background-image: url("imagenes/logo_IDP.png");
+  height: 75px;
+  width: 312px;
+  background-size: cover;
+  float: left;
+  margin-left: 35%;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.especializacion {
+  border-top: 1px solid #fff;
+  float: left;
+  width: 100%;
+  padding-top: 30px;
+}
+
+.grid1 {
+  display: grid;
+  grid-template-areas: "header header" "content content";
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 1fr;
+  grid-auto-flow: row;
+  justify-items: stretch;
+  align-items: stretch;
+  padding: 2%;
+}
+
+.grid2 {
+  display: grid;
+  grid-template-areas: "header header" "content content";
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 1fr;
+  grid-auto-flow: row;
+  justify-items: stretch;
+  align-items: stretch;
+  padding: 2%;
+}
+
+.gridus {
+  border-top: 1px solid #fff;
+  padding: 0;
+  margin: 10px 20px;
+}
+
+.gridus1 {
+  padding: 0;
+  margin: 10px 20px;
+}
+
+.subtitulo {
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Spartan", sans-serif;
+}
+
+.subtitulito {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: justify;
+  margin: 10px 0;
+}
+
+.textoespe {
+  margin: 20px 0;
+  font-weight: normal;
+  color: #fff;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.experiencia {
+  border-top: 1px solid #fff;
+  padding-top: 30px;
+}
+
+.contacto {
+  float: left;
+  width: 100%;
+  padding: 10px 10px;
+}
+
+.line {
+  border-top: 1px solid #fff;
+}
+
+.fin {
+  float: right;
+  width: 100%;
+  border-top: 1px solid #fff;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.sueñolinea {
+  width: 100%;
+  float: left;
+  border-top: 1px solid #fff;
+}
+
+.juega {
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
 @media only screen and (max-width: 1000px) {
   body {
     background-color: #eee;
@@ -254,218 +469,3 @@ a:active {
     font-size: 32px;
   }
 }
-
-.menu {
-  background: #212f3c;
-  position: fixed;
-  width: 100%;
-  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
-  height: 50px;
-
-  white-space: nowrap;
-  left: 0;
-  padding-left: 10px;
-  padding-right: 20px;
-  float: right;
-}
-
-.boton {
-  display: inline-block;
-  text-align: center;
-  text-decoration: none;
-  font-family: "Raleway", sans-serif;
-  color: #aaa;
-  padding-top: 1%;
-  padding-right: 2%;
-}
-
-.cajita {
-  width: 10px;
-  height: 100%;
-  float: right;
-}
-
-.caja {
-  background-color: #212f3c;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #ccc;
-  border-radius: 2px;
-  border-top: solid 0px;
-  font-family: "Raleway", sans-serif;
-  float: left;
-  color: #aaa;
-}
-
-h1,
-h2,
-h3,
-h4 {
-  float: left;
-  width: 100%;
-  font-weight: normal;
-}
-
-.nombre {
-  width: 100%;
-  float: left;
-  font-size: 35px;
-  font-weight: bolder;
-  text-align: center;
-  padding-top: 17px;
-  padding-bottom: 0px;
-}
-
-.resumen {
-  text-align: justify;
-  text-justify: inter-word;
-  padding: 0px 120px 10px;
-  float: left;
-}
-
-.academica {
-  border-top: 1px solid #fff;
-  float: left;
-  background-color: #fff;
-  padding-left: 20px;
-}
-
-.carrera {
-  background-color: #fff;
-  float: left;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 0px;
-  font-size: larger;
-  margin: 60px;
-  color: #2c3e50;
-}
-
-.text_carrera {
-  float: left;
-  width: 100%;
-  text-align: justify;
-  text-justify: inter-word;
-  color: #2c3e50;
-}
-
-.foto1 {
-  padding: 5px;
-}
-
-.link {
-  text-decoration: none;
-}
-
-.idp {
-  background-image: url("imagenes/logo_IDP.png");
-  height: 75px;
-  width: 312px;
-  background-size: cover;
-  float: left;
-  margin-left: 35%;
-  margin-top: 40px;
-  margin-bottom: 30px;
-}
-
-.especializacion {
-  border-top: 1px solid #fff;
-  float: left;
-  width: 100%;
-  padding-top: 30px;
-}
-
-.grid1 {
-  display: grid;
-  grid-template-areas: "header header" "content content";
-  grid-template-rows: 1fr 1fr;
-  grid-template-columns: 1fr 1fr;
-  grid-auto-rows: 1fr;
-  grid-auto-flow: row;
-  justify-items: stretch;
-  align-items: stretch;
-  padding: 2%;
-}
-
-.grid2 {
-  display: grid;
-  grid-template-areas: "header header" "content content";
-  grid-template-rows: 1fr 1fr;
-  grid-template-columns: 1fr 1fr;
-  grid-auto-rows: 1fr;
-  grid-auto-flow: row;
-  justify-items: stretch;
-  align-items: stretch;
-  padding: 2%;
-}
-
-.gridus {
-  border-top: 1px solid #fff;
-  padding: 0;
-  margin: 10px 20px;
-}
-
-.gridus1 {
-  padding: 0;
-  margin: 10px 20px;
-}
-
-.subtitulo {
-  font-size: 35px;
-  font-weight: bold;
-  text-align: center;
-  font-family: "Spartan", sans-serif;
-}
-
-.subtitulito {
-  font-size: 20px;
-  font-weight: bold;
-  text-align: justify;
-  margin: 10px 0;
-}
-
-.textoespe {
-  margin: 20px 0;
-  font-weight: normal;
-  color: #fff;
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-.experiencia {
-  border-top: 1px solid #fff;
-  padding-top: 30px;
-}
-
-.contacto {
-  float: left;
-  width: 100%;
-  padding: 10px 10px;
-}
-
-.line {
-  border-top: 1px solid #fff;
-}
-
-.fin {
-  float: right;
-  width: 100%;
-  border-top: 1px solid #fff;
-  padding-top: 30px;
-  padding-bottom: 20px;
-}
-
-.sueñolinea {
-  width: 100%;
-  float: left;
-  border-top: 1px solid #fff;
-}
-
-.juega {
-  color: #fff;
-  font-size: 25px;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-
