@@ -468,9 +468,4 @@ h4 {
     padding-left: 15px;
     font-size: 32px;
   }
-  markdown-body h2 {
-    padding-bottom: 0.3em;
-    font-size: 35px;
-    border-bottom: 1px solid #eaecef;
-  }
 }
