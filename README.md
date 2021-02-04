@@ -50,6 +50,7 @@
           factibles para la industria, siempre contemplando las capacidades de
           la empresa y los requerimientos del mercado.
           <br />
+          <br />
           Tiene como misión contribuir al desarrollo, difusión y aplicación de
           nuevo conocimiento, mediante la investigación y la formación de
           profesionales integrales, impactando positivamente a la sociedad con
