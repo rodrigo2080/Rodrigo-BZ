@@ -1,6 +1,5 @@
 <html>
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="index_CV.css" type="text/css" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link
@@ -43,13 +42,12 @@
       </div>
       <div class="sueñolinea"></div>
       <div class="carrera" id="estudios">
-        <h2 class="subtitulo">INGENIERÍA EN DISEÑO</h2>
+        <div class="subtitulo">INGENIERÍA EN DISEÑO</div>
         <h4 class="text_carrera">
           La carrera de Ingeniería en Diseño busca formar profesionales con la
           capacidad de crear, diseñar, prototipar y fabricar productos 100%
           factibles para la industria, siempre contemplando las capacidades de
           la empresa y los requerimientos del mercado.
-          <br />
           <br />
           Tiene como misión contribuir al desarrollo, difusión y aplicación de
           nuevo conocimiento, mediante la investigación y la formación de
@@ -59,7 +57,7 @@
         <a class="idp" href="http://www.did.usm.cl/" target="_blank"></a>
       </div>
       <div class="especializacion" id="especializacion">
-        <h2 class="subtitulo">Especialización</h2>
+        <div class="subtitulo">Especialización</div>
       </div>
       <div class="grid1">
         <div class="gridus">
@@ -151,7 +149,7 @@
         </div>
       </div>
       <div class="experiencia" id="experiencia">
-        <h2 class="subtitulo">Experiencia</h2>
+        <div class="subtitulo">Experiencia</div>
       </div>
       <div class="grid2">
         <div class="gridus">
@@ -330,7 +328,7 @@
           <br />
           <a class="juega" href="mailto:rodrigo.bustamante@gmail.com">correo</a>
           <br />
-          <a class="juega" href="https://rodrigo2080.github.io/website/" target="_blank"
+          <a class="juega" href="https://www.youtube.com" target="_blank"
             >website</a
           >
         </div>
