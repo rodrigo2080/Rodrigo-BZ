@@ -28,7 +28,7 @@
         </h1>
       </div>
       <div class="resumen">
-        <h3>
+        <h3 class="textoespe">
           Ingeniero en Diseño de la
           <a class="link" href="https://www.usm.cl/" target="_blank"
             >Universidad Federico Santa María</a
