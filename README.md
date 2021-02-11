@@ -333,6 +333,9 @@
           <a class="juega" href="https://rodrigo2080.github.io/Rodrigo-BZ/" target="_blank"
             >website</a
           >
+          <a class="juega" href="CV_RODRIGO_BUSTAMANTE.pdf" downloadt="CV Rodrigo Bustamante"
+            >Descargar CV</a
+          >
         </div>
       </div>
       <div class="gridus1">
