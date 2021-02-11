@@ -334,8 +334,8 @@
             >website</a
           >
           <br />
-          <a class="juega" href="/CV_RODRIGO BUSTAMANTE.pdf" download="CV Rodrigo Bustamante"
-            >Descargar CV</a
+          <a class="juega" download="/CV_RODRIGO BUSTAMANTE.pdf"
+            >descargar CV</a
           >
         </div>
       </div>
